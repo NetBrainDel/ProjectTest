@@ -13,6 +13,5 @@ public class Main {
         System.out.println("String for cherry pick");
         System.out.println("Dev changes!");
         System.out.println("NEY");
-
     }
 }
