@@ -16,6 +16,7 @@ public class Main {
         System.out.println("String for cherry pick");
         System.out.println("SUPER");
         System.out.println("dev1");
+        System.out.println("and");
 
     }
 }
